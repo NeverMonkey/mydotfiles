@@ -1,6 +1,6 @@
 " =============================================
 " Author:taihou.nie
-" Date:2017-10-20
+" Date:2020-05-28
 " Note: Don't put anything in your .vimrc you don't understand!
 " Get a vundle
 " git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
@@ -249,7 +249,7 @@ Plugin 'altercation/vim-colors-solarized'
 " 主题 molokai
 Plugin 'tomasr/molokai'
 
-" wakatime 2cd57dbc-02fd-44de-9f53-e4b4e93a6ca2
+" wakatime f73049ea-0097-4850-839f-defd6dc9fb40
 Plugin 'wakatime/vim-wakatime'
 
 " syntastic
